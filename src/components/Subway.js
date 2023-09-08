@@ -11,7 +11,7 @@ export default function Subway({ data }) {
         </select>
         <label> 도착역</label> <select className="end"></select>
         <label>
-          <input type="radio"></input>성인
+          <input type="radio"></input>
           <input type="radio"></input>청소년
           <input type="radio"></input>어린이
         </label>
