@@ -1,0 +1,34 @@
+{
+    "id": 2,
+    "juje": "주제 2",
+    "openerNo": 1,
+    "fromGigan": 1690729200000,
+    "toGigan": 1691074800000,
+    "openerUsername": "pchb",
+    "voterCount": 1,
+
+    "jilmundeul": [
+      {
+        "id": 2,
+        "naexyong": "질문 1",
+        "sunseo": 1,
+        "seolmunId": 2,
+        "dabbyeondeul": [
+          { "id": 3, "naexyong": "그렇다", "sunseo": 1, "jilmunId": 2, "voteCount": 1 },
+          { "id": 4, "naexyong": "아니다", "sunseo": 2, "jilmunId": 2, "voteCount": 0 }
+        ]
+      },
+      {
+        "id": 3,
+        "naexyong": "질문 2",
+        "sunseo": 2,
+        "seolmunId": 2,
+        "dabbyeondeul": [
+          { "id": 5, "naexyong": "그렇다", "sunseo": 1, "jilmunId": 3, "voteCount": 0 },
+          { "id": 6, "naexyong": "보통이다", "sunseo": 2, "jilmunId": 3, "voteCount": 1 },
+          { "id": 7, "naexyong": "아니다", "sunseo": 3, "jilmunId": 3, "voteCount": 0 }
+        ]
+      }
+    ]
+    
+}
